@@ -7,4 +7,4 @@ cd rtl8812AU_8821AU_linux
 git apply D-Link-DWA-172.patch
 make
 sudo make install
-sudo modprobe 8812au
+sudo modprobe rtl8812au
